@@ -1,3 +1,6 @@
 This is a file we are creating
 this is an edit we are making
 second commit in feat1
+gyuyhiu
+vtufuyfyg
+conflicting merge
